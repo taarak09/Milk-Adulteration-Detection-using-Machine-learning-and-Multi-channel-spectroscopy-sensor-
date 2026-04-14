@@ -35,5 +35,14 @@ This project detects milk adulteration using multi-channel spectroscopy sensors 
 ## 🎯 Real-World Impact
 Can be used in dairy supply chains to detect milk adulteration in real-time.
 
+## 📸 Project Screenshots
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/acdabddc-d9b4-4137-8175-6ee2b965f26f" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/be063a86-693b-4c45-b434-29e28baaf7dd" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/a48a71cc-efc0-4599-824f-6153f8b09547" />
+<img width="513" height="1600" alt="image" src="https://github.com/user-attachments/assets/4882bf30-f8b2-4159-a7c7-ea888edc7df5" />
+
+
+
+
 ## 👨‍💻 Author
 Taarak Gulhane
