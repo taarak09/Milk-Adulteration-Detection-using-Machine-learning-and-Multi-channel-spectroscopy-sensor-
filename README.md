@@ -1,5 +1,12 @@
 # Milk-Adulteration-Detection-using-Machine-learning-and-Multi-channel-spectroscopy-sensor-
 Real-time milk adulteration detection using spectroscopy sensors and machine learning deployed on Arduino
+small compact and highly accurate low cost portable device
+can replace costly milk testing machines used in the dairy industry
+till now no portable and low cost product for milk testing available in market.Costly FTIR machines are used in dairy industry which are very expensive.each machine costs approximately 80  lakh rupees.
+this is the first portable and  low cost accurate detector with Machine learning model deployed on microcontroller ESP32 with the help of Aurdino
+Highly accurate dataset made  by us in indian enviormental conditions like temperature and light intensity in tropical regions like india.Real datset developed 
+by combining various impurities in milk to give accurate result in the indian enviormental conditions.Spectral sensor reading are adjusted according to indian enviormental factors.
+
 # 🥛 Milk Adulteration Detection using ML & Spectroscopy
 
 ## 📖 Overview
@@ -46,3 +53,8 @@ Can be used in dairy supply chains to detect milk adulteration in real-time.
 
 ## 👨‍💻 Author
 Taarak Gulhane
+
+## 🎥 Project Demo
+
+Download and watch the working of the system:
+https://youtu.be/EZAkKobYuDQ
