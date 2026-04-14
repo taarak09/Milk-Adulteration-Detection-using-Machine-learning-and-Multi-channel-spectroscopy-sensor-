@@ -58,3 +58,19 @@ Taarak Gulhane
 
 Download and watch the working of the system:
 https://youtu.be/EZAkKobYuDQ
+
+## 🔌 Hardware Circuit Diagram
+
+The following diagram shows the pin connections between ESP32, spectroscopy sensor, and pH sensor:
+![circuit_PINdiagram png](https://github.com/user-attachments/assets/ad0b189d-416c-4b42-a86c-195fa5c3fd46)
+
+### 🔧 Key Connections
+- ESP32 ↔ Spectral Sensor (I2C: SDA, SCL)
+- ESP32 ↔ pH Sensor (UART: TX, RX)
+- Power supply via battery and regulator modules
+
+### 📌 Description
+The system uses ESP32 as the central controller, interfacing with:
+- Spectral sensor via I2C
+- pH sensor via UART
+- Common power distribution using battery + boost converter
