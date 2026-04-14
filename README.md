@@ -80,3 +80,10 @@ The system uses ESP32 as the central controller, interfacing with:
 A detailed explanation of the system design, hardware, ML model, and implementation is available here:
 https://drive.google.com/file/d/1_tcacZNMN_fA5jKV22rktA9WMzCWjHEM/view
 
+## 📌 Key Highlights
+
+- Multi-modal sensing using spectroscopy + pH sensors
+- ESP32-based embedded ML system
+- 40-feature vector generation from sensor data
+- Random Forest model deployed on edge device
+- ~92% accuracy after optimization
