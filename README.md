@@ -78,4 +78,5 @@ The system uses ESP32 as the central controller, interfacing with:
 ## 📄 Project Report
 
 A detailed explanation of the system design, hardware, ML model, and implementation is available here:
+https://drive.google.com/file/d/1_tcacZNMN_fA5jKV22rktA9WMzCWjHEM/view
 
