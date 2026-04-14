@@ -74,3 +74,8 @@ The system uses ESP32 as the central controller, interfacing with:
 - Spectral sensor via I2C
 - pH sensor via UART
 - Common power distribution using battery + boost converter
+
+## 📄 Project Report
+
+A detailed explanation of the system design, hardware, ML model, and implementation is available here:
+
